@@ -5,3 +5,6 @@ FORK from [dnmp](https://github.com/yeszao/dnmp.git)
 主要是加入了一键新建站点脚本`script/addSite.sh`，修改为项目需要的PHP5.6+memcached
 
 
+
+
+
